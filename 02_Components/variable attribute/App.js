@@ -1,9 +1,9 @@
 import React from 'react';
-import Owl from './Owl'
+import RedPanda from 'redPanda.js'
 
 function App() {
     return (
-      <Owl />
+      <RedPanda />
     );
 };
 
