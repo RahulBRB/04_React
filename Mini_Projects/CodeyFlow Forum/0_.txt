@@ -1,0 +1,10 @@
+Index.html <- HTML
+Style.css <- CSS 
+
+commentData.js <- Contain commenters pic, name and comment.
+  - App.js <- The top level component responsible for returning the interface to be rendered. It will import cmts from data.js and pass on Card.js
+
+Card.js <- This is where Header and Body combines
+  - Header.js <- Displays the Header of the card. The Profile Pic and Name
+  - Body.js <- Displays body of the card. The comment.
+
